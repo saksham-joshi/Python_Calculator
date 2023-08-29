@@ -1,0 +1,9 @@
+QMessageBox{
+    background-color: rgb(0, 21, 178);
+    color:white;
+}
+QLabel{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:larger;
+}
